@@ -96,11 +96,3 @@ exclude:
 ignore:
 
 theme: Chic
-
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/techkombucha/techkombucha.github.io
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
