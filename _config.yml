@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TechKombucha
+title: Tech Night Coffee
 subtitle: Excellent and Highly Opinionated Tech Expertise
-description: 'TechKombucha brings you all of the latest technology and web development expertise'
+description: 'Tech Night Coffee brings you all of the latest technology and web development expertise'
 keywords:
 author: Tucker Roll
 language: en
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://techkombucha.github.io
+url: http://technightcoffee.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

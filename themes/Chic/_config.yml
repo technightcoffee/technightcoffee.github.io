@@ -1,5 +1,5 @@
 # Header
-navname: Techkombucha
+navname: Tech Night Coffee
 
 # navigatior items
 nav:
@@ -13,7 +13,7 @@ favicon: /favicon.ico
 
 # Profile
 nickname: T. Roll
-description: 'Techkombucha brings you all of the latest technology and web development expertise'
+description: 'Tech Night Coffee brings you all of the latest technology and web development expertise'
 
 ### this variable is MarkDown form.
 avatar: /image/avatar.png
@@ -27,7 +27,6 @@ links:
 #  Category:
 #  Tags:
 #  Link:
-#  Resume:description: 'TechKombucha brings you all of the latest technology and web development expertise'
 
 #  Publish:
 #  Trophy:
@@ -50,7 +49,7 @@ links:
 #  QQ:
 #  Weibo:
 #  WeChat:
-  Github: https://github.com/techkombucha
+  Github: https://github.com/technightcoffee
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
