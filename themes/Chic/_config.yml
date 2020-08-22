@@ -16,7 +16,7 @@ nickname: T. Roll
 description: 'Techkombucha brings you all of the latest technology and web development expertise'
 
 ### this variable is MarkDown form.
-avatar: /image/avatar.jpeg
+avatar: /image/avatar.png
 
 # main menu navigation
 ## links key words should not be changed.
